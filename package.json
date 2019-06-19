@@ -1,0 +1,19 @@
+{
+  "name": "thesisme",
+  "version": "1.0.0",
+  "description": "MEAN PROJECT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALFA",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beinganis/thesisme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beinganis/thesisme/issues"
+  },
+  "homepage": "https://github.com/beinganis/thesisme.git#readme"
+}
